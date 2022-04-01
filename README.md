@@ -1,2 +1,1 @@
-# google_homepage
-Google Homepage Clone
+# Google Homepage Clone
